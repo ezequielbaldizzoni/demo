@@ -11,7 +11,9 @@ repositories {
 
 dependencies {
     // https://mvnrepository.com/artifact/io.kotest/kotest-assertions-core-jvm
-    testImplementation("io.kotest:kotest-assertions-core-jvm:6.0.5")
+    implementation("io.kotest:kotest-framework-engine:6.0.5")
+    // https://mvnrepository.com/artifact/io.kotest/kotest-framework-api-jvm
+    runtimeOnly("io.kotest:kotest-framework-api-jvm:6.0.0.M1")
 }
 
 test {
