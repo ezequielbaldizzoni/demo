@@ -1,19 +1,19 @@
 ## 🧪 Automated Testing: API & Web (Demo)
 
-This repository holds the automated test suite for both the API and the Web user interface (UI) functionalities of our application. The project is built using Kotlin and is specifically designed for easy execution within Continuous Integration / Continuous Deployment (CI/CD) environments.
+This repository holds the automated test suite for both the API and the Web user interface (UI). The project is built using Kotlin and is specifically designed for easy execution within Continuous Integration / Continuous Deployment (CI/CD) environments.
 
 ### 🚀 Technologies Used
 - Language: Kotlin
 
 - Dependency Manager: Gradle (Kotlin DSL: build.gradle)
 
-- API Testing Framework: [E.g.: Rest Assured]
+- API Testing Framework: [Rest Assured]
 
-- Web Testing Framework: [E.g.: Selenium WebDriver]
+- Web Testing Framework: [Selenium WebDriver]
 
-- Testing Framework: [E.g.: JUnit 5, Kotest]
+- Testing Framework: [JUnit 5, Kotest]
 
-- Design Pattern: [E.g.: Page Object Model (Web)]
+- Design Pattern: [Page Object Model (Web)]
 
 ### ⚙️ Local Installation
 To run the tests on your local machine, please ensure you have the following prerequisites installed:
